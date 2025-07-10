@@ -31,5 +31,6 @@ simulation.
 - case1&2_RH_T2m_lfc_etc_diff_schemes.py : Evaluating the sensitivity of different microphysics parameterization on hailstorm simulation
 - Theta_e_W_Rh_vertical.py : vertical evaluation of key atmospheric factors responsible for triggering hailstorm development.
 - cape_t_sh_contourf_sing_img.py : thunderstorm instability using CAPE, Temperature and Specific Humidity.
-- script.py : Processes NetCDF files and plots maps
-- hail_plot.py: Plots hailstorm intensity using `matplotlib` and `cartopy`
+- hail_terminal_velocity.py : hail terminal velocity visualization by using hailnc variable.
+- hail_line_plot.py: Plots hailstorm intensity using Area Cross Sectional Hail Diameter
+- remaing scripts written for case study and assesment, analysis, and Processes NetCDF files for variable conversions, generations, derivations and plots map.
